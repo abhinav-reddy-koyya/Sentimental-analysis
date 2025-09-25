@@ -24,9 +24,6 @@ outputs/
 app.py
 requirements.txt
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ Setup Instructions
