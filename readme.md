@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis
+# Twitter Sentiment Analysis
 
 ## 📌 Overview
 This project performs sentiment analysis on **Twitter airline reviews dataset**.  
